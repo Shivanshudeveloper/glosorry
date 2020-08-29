@@ -11,15 +11,14 @@
       "backgroundColor": "#ffffff"
     },
     "android": {
-      "package": "com.aaryankapur.fnfgrocery",
+      "package": "com.aaryankapur.glosorry",
+      "googleServicesFile": "./google-services.json",
       "versionCode": 1
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
