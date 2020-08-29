@@ -11,7 +11,7 @@
       "backgroundColor": "#ffffff"
     },
     "android": {
-      "package": "com.aaryankapur.glosorry",
+      "package": "com.aaryankapur.fnfgrocery",
       "googleServicesFile": "./google-services.json",
       "versionCode": 1
     },
