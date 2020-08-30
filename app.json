@@ -15,6 +15,9 @@
       "googleServicesFile": "./google-services.json",
       "versionCode": 1
     },
+    "notification": {
+      "icon": "./assets/favicon.png"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
